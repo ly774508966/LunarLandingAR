@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarLanding.CSharp.Plugins", "LunarLanding.CSharp.Plugins.csproj", "{AF880C82-EB96-C0CE-C685-EFAA7185A09F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarLanding.CSharp", "LunarLanding.CSharp.csproj", "{E1816542-342C-02BE-AF14-90A9DD7DAD5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LunarLanding.CSharp.Editor", "LunarLanding.CSharp.Editor.csproj", "{DB5687DD-62AB-3899-DF32-16185689610C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF880C82-EB96-C0CE-C685-EFAA7185A09F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF880C82-EB96-C0CE-C685-EFAA7185A09F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF880C82-EB96-C0CE-C685-EFAA7185A09F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF880C82-EB96-C0CE-C685-EFAA7185A09F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1816542-342C-02BE-AF14-90A9DD7DAD5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1816542-342C-02BE-AF14-90A9DD7DAD5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1816542-342C-02BE-AF14-90A9DD7DAD5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1816542-342C-02BE-AF14-90A9DD7DAD5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB5687DD-62AB-3899-DF32-16185689610C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB5687DD-62AB-3899-DF32-16185689610C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB5687DD-62AB-3899-DF32-16185689610C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB5687DD-62AB-3899-DF32-16185689610C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
